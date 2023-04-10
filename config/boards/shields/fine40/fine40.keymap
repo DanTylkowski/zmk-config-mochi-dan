@@ -21,7 +21,7 @@
 				&kp LCTL    &kp LALT   &kp LGUI   &mo 2      &kp SPACE   &kp SPACE   &kp SPACE   &mo 1      &kp RGUI   &kp RCTL  &mo 3     &kp C_PP
 			>;
 
-			sensor-bindings = <&inc_dec_kp K_SCROLL_UP K_SCROLL_DN>;
+			sensor-bindings = <&inc_dec_kp K_SCROLL_UP K_SCROLL_DOWN>;
 		};
 
 		right {
